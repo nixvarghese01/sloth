@@ -1,3 +1,7 @@
+> **📌 Notes from Nixon Varghese**
+> Forked from [slok/sloth](https://github.com/slok/sloth) as a reference for **Prometheus SLO generation**. Reference for defining SLOs and alerting, related to my SRE work.
+> All credit for the content goes to the original authors.
+
 <p align="center">
     <img src="docs/img/logo.png" width="15%" align="center" alt="sloth">
 </p>
